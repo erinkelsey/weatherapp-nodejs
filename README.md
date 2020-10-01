@@ -2,7 +2,7 @@
 
 A site to show the current weather in a specific location, implemented with Node.js, Express and OpenWeather API.
 
-Hosted Example:
+Hosted Example: https://arcane-savannah-07632.herokuapp.com/
 
 ### Install and Setup
 
